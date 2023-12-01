@@ -3,7 +3,7 @@ title: "When to Use Static Generation vs. Server-side Rendering"
 date: "2023-03-17"
 ---
 
-<CustomImage src="https://github.com/gitdagray/next-js-course/blob/main/why-next.js/ssr-benefits.PNG" alt="Statiic" />
+<CustomImage src="https://raw.githubusercontent.com/gitdagray/next-js-course/blob/main/images/ssr-benefits.PNG" alt="Statiic" />
 
 We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
 
